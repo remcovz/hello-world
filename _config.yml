@@ -4,6 +4,8 @@ email: github@zuijlen.eu
 description: "This is my Jekyll test setup."
 baseurl: "/hello-world"
 url: "http://www.zuijlen.eu/"
+github_user: "remcovz"
+twitter_user: "remco72"
 
 # Build settings
 markdown: kramdown
