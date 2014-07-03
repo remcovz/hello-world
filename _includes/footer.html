@@ -54,7 +54,7 @@
 
     <div class="footer-col-3 column">
       <p class="text">{{ site.description }}</p>
-      <p class="text">Site built on: <b>{{ site.time }}</b></p>
+      <p class="text">Site built on: <b>{{ site.time | date_to_rfc822 }}</b></p>
     </div>
 
   </div>
