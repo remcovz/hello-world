@@ -1,9 +1,10 @@
 # Site settings
 title: My Jekyll Test Site
 email: github@zuijlen.eu
-description: "This is my Jekyll test setup."
+description: "This is my Jekyll test website."
 baseurl: "/hello-world"
 url: "http://www.zuijlen.eu"
+
 github_user: "remcovz"
 twitter_user: "remco72"
 
