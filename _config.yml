@@ -4,6 +4,7 @@ email: github@zuijlen.eu
 description: "This is my Jekyll test website."
 baseurl: "/hello-world"
 url: "http://www.zuijlen.eu"
+timezone: Europe/Amsterdam
 
 github_user: "remcovz"
 twitter_user: "remco72"
