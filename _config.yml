@@ -6,9 +6,9 @@ baseurl: "/hello-world"
 url: "http://www.zuijlen.eu"
 timezone: Europe/Amsterdam
 
-github_user: "remcovz"
-twitter_user: "remco72"
+github_username: "remcovz"
+twitter_username: "remco72"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+#permalink: pretty
