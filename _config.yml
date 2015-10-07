@@ -1,13 +1,17 @@
 # Site settings
 title: My Jekyll Test Site
 email: github@zuijlen.eu
-description: "This is my Jekyll test website."
+description: > 
+  This is my Jekyll test website. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "/hello-world"
-url: "http://www.zuijlen.eu"
+url: http://www.zuijlen.eu
 timezone: Europe/Amsterdam
+paginate: 5
 
-github_username: "remcovz"
-twitter_username: "remco72"
+github_username: remcovz
+twitter_username: remco72
 
 # Build settings
 markdown: kramdown
