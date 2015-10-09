@@ -15,4 +15,8 @@ twitter_username: remco72
 
 # Build settings
 markdown: kramdown
-#permalink: pretty
+permalink: pretty
+
+collections:
+  - albums
+
