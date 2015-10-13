@@ -31,7 +31,7 @@ Organizations:
     <a href="https://github.com/{{ org[1].username }}">
       {{ org[1].name }}
     </a>
-    ({{ org[1].members | size }} members)
+    ({{ org[1].members | size }} members: {% for member in org[1].members %}<a href="https://github.com/{{ member.github}}">{{ member.name }}</a> {% endfor %})
   </li>
 {% endfor %}
 </ul>
