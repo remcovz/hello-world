@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: post 
 title:  Collections
 date:   2015-10-09 12:30:00
 categories: collections
