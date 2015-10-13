@@ -1,9 +1,10 @@
 ---
 layout: post 
-title:  Collections
+title:  "Collections"
 date:   2015-10-09 12:30:00
 categories: collections
 ---
+
 {% for album in site.albums %}
   <h2>{{ album.title }}</h2>
   <p>Performed by {{ album.artist }}{% if album.director %}, directed by {{ album.director }}{% endif %}</p>
