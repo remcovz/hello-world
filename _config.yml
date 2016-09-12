@@ -19,6 +19,7 @@ permalink: pretty
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 collections:
   - albums
