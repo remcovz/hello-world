@@ -10,6 +10,6 @@ title: Site info
 <b>site.data.members:</b> {{ site.data.members }}<br>
 <b>site.data.orgs:</b> {{ site.data.orgs }}<br>
 <b>site.collections:</b> {{ site.collections }}<br>
-
+<b>site.github:</b> {{ site.github }}<br>
 <p>
 {{ site }}
