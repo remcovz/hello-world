@@ -25,3 +25,5 @@ gems:
 collections:
   - albums
 
+
+theme: jekyll-theme-cayman
