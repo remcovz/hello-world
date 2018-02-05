@@ -6,7 +6,7 @@ description: >
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/hello-world"
-url: http://www.zuijlen.eu
+url: http://github.zuijlen.eu
 timezone: Europe/Amsterdam
 paginate: 5
 
@@ -17,7 +17,14 @@ twitter_username: remco72
 markdown: kramdown
 permalink: pretty
 
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
 collections:
   albums:
     output: true
 
+
+theme: jekyll-theme-cayman
