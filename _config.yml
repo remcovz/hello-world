@@ -17,14 +17,16 @@ twitter_username: remco72
 markdown: kramdown
 permalink: pretty
 
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
+plugins:
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-feed
+    - jekyll-gist
 
 collections:
   albums:
     output: true
 
+#theme: jekyll-theme-cayman
 
-theme: jekyll-theme-cayman
