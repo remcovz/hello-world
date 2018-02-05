@@ -17,4 +17,5 @@ works:
       - title: "The last song"
         duration: "6:49"
 ---
+test.
 
